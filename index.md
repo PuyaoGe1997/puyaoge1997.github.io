@@ -3,8 +3,8 @@ layout: default
 title: Puyao Ge's Academic Website
 ---
 
-# Puyao Ge's Academic Website
-Welcome to my personal academic website! Here you can find information about my research, publications, teaching, and more.
+# Puyao Ge's   Website
+ 
 
 ## About Me
 I received my  Ph.D. from the Department of Statistics and Operations Research at UNC-Chapel Hill. My research focuses on Operations Management.
