@@ -5,9 +5,9 @@ title: Puyao Ge - Academic Homepage
 
 # Puyao Ge
 
-Welcome! I am a Ph.D. candidate in the Department of Statistics and Operations Research at UNC-Chapel Hill.
+Welcome! I am a Postdoctral Associate Rice University. Andrew Schaefer I received my Ph.D. from the Department of Statistics and Operations Research at University of North Carolina at Chapel Hill. Jayashankar Swaminathan
 
-My research interests include operations management, stochastic modeling, and the application of machine learning to socially impactful problems.
+ 
 
 ---
 
