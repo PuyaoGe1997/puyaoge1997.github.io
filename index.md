@@ -10,13 +10,13 @@ title: Puyao Ge - Academic Homepage
     <td style="vertical-align:top;">
       <h1>Puyao Ge</h1>
       <p>
-      Welcome! I am a Postdoctoral Associate in the [Department of Computational Applied Mathematics and Operations Research](https://cmor.rice.edu/) at Rice University, working with Prof. [Andrew Schaefer](https://andrewschaefer.rice.edu/).
+        Welcome! I am a Postdoctoral Associate in the <a href="https://cmor.rice.edu/">Department of Computational Applied Mathematics and Operations Research</a> at Rice University, working with <a href="https://andrewschaefer.rice.edu/">Prof. Andrew Schaefer</a>.
       </p>
       <p>
-        I received my Ph.D. from the [Department of Statistics and Operations Research](https://stor.unc.edu/) at the University of North Carolina at Chapel Hill, where I was advised by Prof. [Vidyadhar Kulkarni](https://vkulkarn.web.unc.edu/) and Prof. [Jayashankar Swaminathan](https://www.kenan-flagler.unc.edu/faculty/directory/jayashankar-swaminathan/).
+        I received my Ph.D. from the <a href="https://stor.unc.edu/">Department of Statistics and Operations Research</a> at the University of North Carolina at Chapel Hill, where I was advised by <a href="https://vkulkarn.web.unc.edu/">Prof. Vidyadhar Kulkarni</a> and <a href="https://www.kenan-flagler.unc.edu/faculty/directory/jayashankar-swaminathan/">Prof. Jayashankar Swaminathan</a>.
       </p>
       <p>
-        I received my B.S. degree from the [Department of Mathematical Sciences](https://www.math.tsinghua.edu.cn/#) at Tsinghua University.
+        I received my B.S. degree from the <a href="https://www.math.tsinghua.edu.cn/#">Department of Mathematical Sciences</a> at Tsinghua University.
       </p>
     </td>
   </tr>
@@ -24,7 +24,6 @@ title: Puyao Ge - Academic Homepage
 
 
 
-# Puyao Ge
 
 
 ---
