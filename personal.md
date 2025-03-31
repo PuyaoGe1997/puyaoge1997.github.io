@@ -1,4 +1,9 @@
-<h2>Personal</h2>
+---
+layout: default
+title: Personal
+permalink: /personal/
+---
+ 
 
 <h3>👨‍👩‍👧 Family</h3>
 <p>
