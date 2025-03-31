@@ -18,10 +18,10 @@ title: Puyao Ge - Academic Homepage
   <a href="https://faculty.mdanderson.org/profiles/jeffrey_siewerdsen.html"> Jeffrey Siewerdsen</a>.
     </p>
     <p>
-      I received my Ph.D. from the <a href="https://stor.unc.edu/">Department of Statistics and Operations Research</a> at the University of North Carolina at Chapel Hill, where I was advised by Prof. <a href="https://vkulkarn.web.unc.edu/"> Vidyadhar Kulkarni</a> and Prof. <a href="https://www.kenan-flagler.unc.edu/faculty/directory/jayashankar-swaminathan/"> Jayashankar Swaminathan</a>.
+      I received my Ph.D. in 2024 from the <a href="https://stor.unc.edu/">Department of Statistics and Operations Research</a> at the University of North Carolina at Chapel Hill, where I was advised by Prof. <a href="https://vkulkarn.web.unc.edu/"> Vidyadhar Kulkarni</a> and Prof. <a href="https://www.kenan-flagler.unc.edu/faculty/directory/jayashankar-swaminathan/"> Jayashankar Swaminathan</a>.
     </p>
     <p>
-      I received my B.S. degree from the <a href="https://www.math.tsinghua.edu.cn/#">Department of Mathematical Sciences</a> at Tsinghua University.
+      I received my B.S. degree in 2019 from the <a href="https://www.math.tsinghua.edu.cn/#">Department of Mathematical Sciences</a> at Tsinghua University.
     </p>
   </div>
 </div>
