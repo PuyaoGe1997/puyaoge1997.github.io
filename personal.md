@@ -11,10 +11,10 @@
     🏀 <strong>Basketball</strong>: I enjoy playing basketball and have been a devoted fan of the <strong>Houston Rockets</strong> for more than 20 years.
   </li>
   <li>
-    ⚽ <strong>Soccer</strong>: I’m also a long-time football enthusiast and have supported <strong>Real Madrid</strong> for nearly 20 years.
+    ⚽ <strong>Soccer</strong>: I’m also a long-time soccer enthusiast and have supported <strong>Real Madrid</strong> for nearly 20 years.
   </li>
   <li>
-    🏓 <strong>Table Tennis</strong>: I also play table tennis regularly and truly enjoy the speed and precision of the game.
+    🏓 <strong>Table Tennis</strong>: I can also play table tennis.
   </li>
 </ul>
 
