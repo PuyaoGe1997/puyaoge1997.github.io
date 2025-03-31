@@ -12,7 +12,10 @@ title: Puyao Ge - Academic Homepage
   <div style="flex:1; min-width:240px;">
     <h1>Puyao Ge</h1>
     <p>
-      Welcome! I am a Postdoctoral Associate in the <a href="https://cmor.rice.edu/">Department of Computational Applied Mathematics and Operations Research</a> at Rice University, working with Prof. <a href="https://andrewschaefer.rice.edu/"> Andrew Schaefer</a>.
+      Welcome! I am a Postdoctoral Associate in the <a href="https://cmor.rice.edu/">Department of Computational Applied Mathematics and Operations Research</a> at Rice University, working with Prof. <a href="https://andrewschaefer.rice.edu/"> Andrew Schaefer</a>.  I am also affiliated with the 
+  <a href="https://www.mdanderson.org/research/departments-labs-institutes/institutes/institute-for-data-science-in-oncology.html">Institute for Data Science in Oncology</a> 
+  at MD Anderson Cancer Center, hosted by Prof.
+  <a href="https://faculty.mdanderson.org/profiles/jeffrey_siewerdsen.html"> Jeffrey Siewerdsen</a>.
     </p>
     <p>
       I received my Ph.D. from the <a href="https://stor.unc.edu/">Department of Statistics and Operations Research</a> at the University of North Carolina at Chapel Hill, where I was advised by Prof. <a href="https://vkulkarn.web.unc.edu/"> Vidyadhar Kulkarni</a> and Prof. <a href="https://www.kenan-flagler.unc.edu/faculty/directory/jayashankar-swaminathan/"> Jayashankar Swaminathan</a>.
