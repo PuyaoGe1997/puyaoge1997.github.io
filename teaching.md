@@ -6,4 +6,7 @@ permalink: /teaching/
 
 # 🎓 Teaching
 
-Content coming soon...
+## 2025 Spring
+
+**Instructor**, Rice University  
+**CMOR 360: Introduction to Operations Research and Optimization**
