@@ -14,7 +14,6 @@ Undergraduate level. Formulation of mathematical models of complex decisions ari
 
 ### 2023 Summer – University of North Carolina at Chapel Hill
 **STOR Comprehensive Written Examination Tutorial Sessions**
-
 For STOR first-year PhD students. Stochastic Modeling and Optimization.
 
 ---
