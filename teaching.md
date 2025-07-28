@@ -13,7 +13,7 @@ permalink: /teaching/
 Undergraduate level. Formulation of mathematical models of complex decisions arising in management, economics, and engineering. Models using linear, nonlinear, stochastic and integer programming, as well as networks. Linear programming duality and its modeling implications. Overview of basic solution methods for these optimization models.
 
 ### 2023 Summer – University of North Carolina at Chapel Hill
-**STOR Comprehensive Written Examination Tutorial Sessions**
+**STOR Comprehensive Written Examination Tutorial Sessions**  
 For STOR first-year PhD students. Stochastic Modeling and Optimization.
 
 ---
