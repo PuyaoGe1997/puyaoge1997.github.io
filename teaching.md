@@ -10,7 +10,7 @@ permalink: /teaching/
 
 ### 2025 Spring – Rice University  
 **CMOR 360: Introduction to Operations Research and Optimization**  
-Undergraduate level. Formulation of mathematical models of complex decisions arising in management, economics, and engineering. Models using linear, nonlinear, stochastic and integer programming, as well as networks. Linear programming duality and its modeling implications. Overview of basic solution methods for these optimization models
+Undergraduate level. Formulation of mathematical models of complex decisions arising in management, economics, and engineering. Models using linear, nonlinear, stochastic and integer programming, as well as networks. Linear programming duality and its modeling implications. Overview of basic solution methods for these optimization models.
 
 ### 2023 Summer – University of North Carolina at Chapel Hill
 **STOR Comprehensive Written Examination Tutorial Sessions**
