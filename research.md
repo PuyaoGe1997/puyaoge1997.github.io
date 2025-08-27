@@ -18,6 +18,6 @@ permalink: /research/
 3. Benjamin Leinwand, **Puyao Ge**, Vidyadhar G. Kulkarni, Richard Smith.  
    **Winning an Election, Not a Popularity Contest.**  
    *Significance* **18**(4): 24–29, 2021.  
-   <a href="https://doi.org/10.1111/1740-9713.01549" target="_blank">[Journal]</a>
+   <a href="https://academic.oup.com/jrssig/article/18/4/24/7038210" target="_blank" style="text-decoration:none;">[Journal]</a>
 
 ## Working Papers
