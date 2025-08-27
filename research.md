@@ -9,7 +9,7 @@ permalink: /research/
 ## Publications
 
 1. **Puyao Ge**, Vidyadhar G. Kulkarni, Jayashankar M. Swaminathan.  
-   **Optimal Allocation of Limited Inventory among Multi-class Customers with Finite Populations**.  
+   **Optimal Allocation of Limited Inventory among Multiclass Customers with Finite Populations**.  
    *Operations Research* (2025+).  
    <a href="https://doi.org/10.1287/opre.2024.0892" target="_blank">[Journal]</a> · 
    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4750470" target="_blank">[Preprint]</a>
