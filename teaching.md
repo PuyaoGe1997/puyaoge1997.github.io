@@ -11,10 +11,7 @@ permalink: /teaching/
 ### 2025 Fall – Rice University  
 **INDE 545: Prescriptive Analytics**  
 Graduate level. This course is designed to help students master the analytical tools and techniques to formulate and solve
-optimization problems that arise in a variety of real-world settings. This course  
-covers deterministic optimization models such as linear, integer, dynamic and nonlinear programming.
-Examples and cases are from various application areas such as supply chains, inventory management, transportation,
-capacity allocation, and production planning.  
+optimization problems that arise in a variety of real-world settings. This course covers deterministic optimization models such as linear, integer, dynamic and nonlinear programming. Examples and cases are from various application areas such as supply chains, inventory management, transportation, capacity allocation, and production planning.  
 
 ### 2025 Spring – Rice University  
 **CMOR 360: Introduction to Operations Research and Optimization**  
