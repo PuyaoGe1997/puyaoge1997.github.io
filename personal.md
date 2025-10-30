@@ -22,7 +22,7 @@ permalink: /personal/
     🏓 <strong>Table Tennis</strong>: I can also play table tennis.
   </li>
   <li>
-    🎮 <strong>Games</strong>: My favorite game is <strong>Pokémon</strong> 🐱‍👤.  
+    🎮 <strong>Games</strong>: My favorite game is <strong>Pokémon</strong>.  
   </li>
 </ul>
 
