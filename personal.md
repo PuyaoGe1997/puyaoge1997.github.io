@@ -7,7 +7,7 @@ permalink: /personal/
 
 <h3>👨‍👩‍👧 Family</h3>
 <p>
-  I live in Houston with my wife, <a href="https://siruiruiren.github.io/academic-website">Sirui Ren</a>, who is also a scholar and my strongest supporter.
+  I live in Houston with my wife, <a href="https://siruiruiren.github.io/academic-website">Sirui Ren</a>, who is an amazing scholar and my strongest supporter.
 </p>
 
 <h3> Hobbies</h3>
