@@ -15,7 +15,7 @@ optimization problems that arise in a variety of real-world settings. This cours
 
 ### 2025 Spring – Rice University  
 **CMOR 360: Introduction to Operations Research and Optimization**  
-Undergraduate-level course introducing fundamental principles and methodologies of operations research and optimization. The course focuses on mathematical models for decision-making problems arising in management, economics, and engineering. Topics include linear, nonlinear, integer, and dynamic programming, as well as  graph theory. The course also covers linear programming duality and its modeling implications. An overview of classical solution methods is provided, including the simplex method, branch-and-bound algorithms, and the Karush–Kuhn–Tucker (KKT) conditions.
+Undergraduate-level course introducing fundamental principles and methodologies of operations research and optimization. The course focuses on the formulation of mathematical models for decision-making problems arising in management, economics, and engineering. Topics include linear, nonlinear, integer, and dynamic programming, as well as graph theory. The course also covers linear programming duality and its modeling implications. Classical solution methods are discussed, including the simplex method, the branch-and-bound algorithm, and the Karush–Kuhn–Tucker (KKT) conditions.
 
 ### 2023 Summer – University of North Carolina at Chapel Hill
 **STOR Comprehensive Written Examination Tutorial Sessions**  
