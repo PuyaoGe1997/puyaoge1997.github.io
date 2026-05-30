@@ -16,7 +16,7 @@ permalink: /personal/
     🏀 <strong>Basketball</strong>: I like playing basketball and have been a devoted fan of the <strong>Houston Rockets</strong> 🚀 for more than 20 years. Since living in the U.S., I have also become a  supporter of the <strong>UNC Tar Heels</strong> 🐏.
   </li>
   <li>
-    ⚽ <strong>Soccer</strong>: I’m also a soccer enthusiast and have supported <strong>Real Madrid</strong> 👑 for nearly 20 years. 
+    ⚽ <strong>Soccer</strong>: I’m also a soccer enthusiast and have supported <strong>Real Madrid</strong> 👑 for 20 years. 
   </li>
   <li>
     🏓 <strong>Table Tennis</strong>: I can also play table tennis.
