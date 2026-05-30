@@ -8,6 +8,12 @@ permalink: /teaching/
 
 ## 📘 Instructor
 
+### 2026 Spring – Rice University  
+**CMOR 544: Stochastic Optimization**  
+Advanced undergraduate and graduate-level course. The course is built around the Markov Decision Process (MDP) framework, which forms the mathematical foundation of reinforcement learning (RL). The first two-thirds of the course cover classical MDP models, including finite- and infinite-horizon problems and their applications, while the final third introduces RL within the MDP framework, including tabular and approximation methods. Applications discussed throughout the course include inventory control, revenue management, queueing control, healthcare decision-making, and sports strategy. Students learn to formulate stochastic decision problems as MDPs, identify key model components, solve MDP models, and interpret solutions in applied contexts. The final project allows students to explore recent RL techniques through real-world problems of personal interest, such as game strategy and stock-market decision-making.
+
+
+
 ### 2025 Fall – Rice University  
 **INDE 545: Prescriptive Analytics**  
 Graduate level. This course is designed to help students master the analytical tools and techniques to formulate and solve
