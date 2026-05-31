@@ -12,7 +12,7 @@ title: Puyao Ge - Academic Homepage
   <div style="flex:1; min-width:240px;">
     <h1>Puyao Ge</h1>
     <p>
-      Welcome! I am a Postdoctoral Associate in the <a href="https://cmor.rice.edu/" target="_blank">Department of Computational Applied Mathematics and Operations Research</a> at Rice University, working with Prof. <a href="https://andrewschaefer.rice.edu/" target="_blank"> Andrew Schaefer</a>.  I am also affiliated with the 
+      Welcome! I am a Postdoctoral Associate in the <a href="https://cmor.rice.edu/" target="_blank">Department of Computational Applied Mathematics and Operations Research</a> at Rice University, working with Prof. <a href="https://profiles.rice.edu/faculty/andrew-j-schaefer" target="_blank"> Andrew Schaefer</a>.  I am also affiliated with the 
   <a href="https://www.mdanderson.org/research/departments-labs-institutes/institutes/institute-for-data-science-in-oncology.html" target="_blank">Institute for Data Science in Oncology</a> 
   at MD Anderson Cancer Center, hosted by Prof.
   <a href="https://faculty.mdanderson.org/profiles/jeffrey_siewerdsen.html" target="_blank"> Jeffrey Siewerdsen</a>.
