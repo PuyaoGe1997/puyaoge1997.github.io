@@ -12,7 +12,9 @@ permalink: /teaching/
 **CMOR 544: Stochastic Optimization**  
 Advanced undergraduate and graduate-level course. The course is built around the Markov Decision Process (MDP) framework, which forms the mathematical foundation of reinforcement learning (RL). The first two-thirds of the course cover classical MDP models, including finite- and infinite-horizon problems and their applications, while the final third introduces RL based on the MDP framework, including tabular and approximation methods. Applications discussed throughout the course include inventory control, revenue management, queueing control, healthcare decision-making, and sports strategy. Students learn to formulate stochastic decision problems as MDPs, identify key model components, solve MDP models, and interpret solutions in applied contexts. The final project allows students to explore recent RL techniques through real-world problems of personal interest, such as game strategy and stock-market decision-making.
 
-**Course materials:**
+**Course materials:**  
+[Bayesian Optimization and Reinforcement Learning Lecture Notes (PDF)](/assets/pdf/Bayesian_Optimization_and_Reinforcement_Lecture_Notes.pdf)
+
 These notes were co-developed with [Professor Hengrui Luo](https://hrluo.github.io/HengruiLuo_Home.html), instructor of Rice STAT 620. They are provided for reference only. Comments and corrections are very welcome.
 
 ### 2025 Fall – Rice University  
