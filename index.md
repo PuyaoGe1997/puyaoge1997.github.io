@@ -37,7 +37,7 @@ title: Puyao Ge - Academic Homepage
 
 ## 🔍 Navigation
 - [Google Scholar](https://scholar.google.com/citations?user=eNtU8A4AAAAJ&hl=zh-CN&oi=ao) 
-
+- [LinkedIn](https://www.linkedin.com/in/puyao-ge-0243aa183)
 ---
 
 ## 📬 Contact
