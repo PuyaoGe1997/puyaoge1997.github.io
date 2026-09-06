@@ -14,7 +14,6 @@ Advanced undergraduate and graduate-level course. The course is built around the
 
 **Course materials:**  
 [Bayesian Optimization and Reinforcement Learning Lecture Notes (PDF)](/assets/pdf/Bayesian_Optimization_and_Reinforcement_Lecture_Notes.pdf)
-
 These notes were co-developed with [Professor Hengrui Luo](https://hrluo.github.io/HengruiLuo_Home.html), instructor of Rice STAT 620. They are provided for reference only. Comments and corrections are very welcome.
 
 ### 2025 Fall – Rice University  
