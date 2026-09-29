@@ -15,7 +15,7 @@ Advanced undergraduate and graduate-level course. The course is built around the
 **Course materials:**  <a href="/assets/pdf/Bayesian_Optimization_and_Reinforcement_Lecture_Notes.pdf" target="_blank" rel="noopener noreferrer">
 Bayesian Optimization and Reinforcement Learning Lecture Notes (PDF)
 </a>  
-These notes were co-developed with [Professor Hengrui Luo](https://hrluo.github.io/HengruiLuo_Home.html), instructor of Rice STAT 620. They are provided for reference only. Comments and corrections are very welcome.
+These notes were co-developed with <a href="https://hrluo.github.io/HengruiLuo_Home.html" target="_blank" rel="noopener noreferrer">Professor Hengrui Luo</a>, instructor of Rice STAT 620. They are provided for reference only. Comments and corrections are very welcome.
 
 ### 2025 Fall – Rice University  
 **INDE 545: Prescriptive Analytics**  
