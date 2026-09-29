@@ -10,7 +10,7 @@ permalink: /teaching/
 
 ### 2026 Fall – Rice University  
 **BUSI 395: Data Analytics**  
-Undergraduate-level course in Rice University’s business school introducing the statistics and mathematics required for applications of data science to business environments. The course covers descriptive statistics, probability, statistical inference, hypothesis testing, simple and multiple regression, bootstrapping, model validation and selection, and time-series analysis, with an emphasis on addressing concrete business problems. Python labs complement the lectures with hands-on data analysis, simulation, regression, and model validation.
+Undergraduate-level course in Rice University’s business school introducing the statistics and mathematics required for applications of data science in business environments. The course covers descriptive statistics, probability, statistical inference, hypothesis testing, simple and multiple regression, bootstrapping, model validation and selection, and time-series analysis, with an emphasis on addressing concrete business problems. Python labs complement the lectures with hands-on data analysis, simulation, regression, and model validation.
 
 ### 2026 Spring – Rice University  
 **CMOR 544: Stochastic Optimization**  
